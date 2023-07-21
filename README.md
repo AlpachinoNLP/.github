@@ -1,3 +1,4 @@
+![](./profile/alpachino.jpg)
 Hey there! Welcome to our team's corner at HuggingFace! We're a bunch of enthusiastic folks who are totally into the exciting world of AI. Our team is all about exploring and diving deep into the fascinating realms of NLP, LLMs, and multimodal AI techniques.
 
 We're a curious bunch, always on the lookout for cool ways to make AI systems understand and generate human-like language. NLP is our jam, and we love uncovering new tricks and techniques to improve how machines understand and respond to what we humans say.
